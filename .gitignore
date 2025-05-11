@@ -1,4 +1,6 @@
-deconvolved_data/*
-original_data/*
-RAW_data/*
+deconvolved_data/*/*.fif
+original_data/*/*.fif
+RAW_data/*/*.vhdr
+RAW_data/*/*.vmrk
+RAW_data/*/*.eeg
 .DS_Store
